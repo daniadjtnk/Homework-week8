@@ -1,0 +1,2 @@
+INSERT INTO actor (actor_id, first_name, last_name, last_update)
+VALUES (201, 'Emma', 'Stone', now()), (202, 'Ryan', 'Gosling', now()), (203, 'Leonardo', 'DiCaprio', now()),(204, 'Dave', 'Franco', now()), (205, 'Margot', 'Robbie', now());

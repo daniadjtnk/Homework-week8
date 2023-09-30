@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "driver": "pg",
+        "user": "mac",
+        "password": "no-password",
+        "host": "localhost",
+        "database": "dvd_rental"
+    }
+
+}
